@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a> He/Him | Physics Grad
+subtitle: <a href='#'>He/Him | Physics Grad</a> 
 
 profile:
   align: right
