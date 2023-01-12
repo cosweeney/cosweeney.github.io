@@ -4,7 +4,7 @@
     - name: Full Name
       value: Connor Sweeney
     - name: Date of Birth
-      value: Aug 27th 1998
+      value: Aug 1998
    # - name: Languages
      # value: English, German
 
@@ -97,4 +97,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Rugby/Football/Most Sports, Weightlifting, hiking/camping, going to the beach when I'm able :).
+    - Rugby/football/most sports, weightlifting, hiking/camping, going to the beach when I'm able :).

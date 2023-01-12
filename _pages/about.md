@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>He/Him | Physics Grad</a> 
+subtitle: <a>He/Him | Physics Grad</a> 
 
 profile:
   align: right
@@ -23,13 +23,13 @@ social: true  # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-## About me
+## about me
 
-I am a second-year physics grad student at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working under Eduardo Rozo. My research interests are largely in (computational) astrophysics, cosmology, and high-energy physics related to the nature of Dark Matter.
+I am a second-year physics grad student at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working under Eduardo Rozo. My research interests are largely in (computational) astrophysics, cosmology, and high-energy physics related to topics such as the nature and production of dark matter, and the acceleration of cosmic particles.
 
 I earned my B.S. in Astrophysics from the University of California, Santa Cruz (go slugs!), where I had the chance to do research on cosmic-ray diffusion and gamma-ray emission in Andromeda (M31) under Stefano Profumo.
 
-## Outside of Academia..
+## outside of academia..
 
 I enjoy finding out new things about myself and the world, be that through fitness, cooking, camping, music, reading, playing with my dog Nova, or exploring Tucson (or other parts of the world when I get the chance). 
 
