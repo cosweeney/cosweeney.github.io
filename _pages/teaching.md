@@ -28,7 +28,7 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2022: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Intro Lab for non-majors, corequisite with PHYS103, covering electricity and magnetism, circuits, optics, and radioactivity.</li>
+      Intro Lab for non-majors, corequisite with PHYS103, covering electricity and magnetism, circuits, optics, and radioactivity.
     </ul>
   </div>
 </div>
@@ -48,7 +48,7 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Summer Session II 2022: Course Instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Introductory course for non-physics majors, surveying E&M, circuits, optics, nuclear and quantum physics</li>
+      Introductory course for non-physics majors, surveying E&M, circuits, optics, nuclear and quantum physics
     </ul>
   </div>
 </div>
@@ -67,10 +67,7 @@ nav_order: 5
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2021-Spring 2022: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Intro circuits/E&M Lab for physics and engineering majors.</li>
+      Intro circuits/E&M Lab for physics and engineering majors.
     </ul>
   </div>
 </div>
-
-
-

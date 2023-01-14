@@ -1,6 +1,6 @@
 ---
 layout: page
-title: H_0 Verification 
+title: H_0 Measurement
 description: "[currently underway]"
 img:
 importance: 3
