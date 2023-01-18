@@ -4,7 +4,7 @@
     - name: Full Name
       value: Connor Sweeney
     - name: Date of Birth
-      value: Aug 1998
+      value: Aug 1998; Upland CA
    # - name: Languages
      # value: English, German
 
@@ -87,8 +87,7 @@
   contents:
     - title: Astrophysics and Cosmology
       items: 
-        - Dark Energy/Dark Matter
-        - Constraining the Hubble parameter 
+        - Dark Energy/Dark Matter 
         - Origin of solar and galactic cosmic-rays, gamma-rays
     - title: HEP
       items:
