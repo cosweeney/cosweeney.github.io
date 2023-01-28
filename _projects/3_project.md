@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phase Space of Galaxy Clusters, H_0
+title: Phase Space of Galaxy Clusters with MHD, H_0
 description: "[currently underway]"
 img:
 importance: 3
