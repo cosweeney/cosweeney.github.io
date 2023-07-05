@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>PAS 243</p>
+    <p>PAS 374</p>
     <p>1118 E Fourth St.</p>
     <p>Tucson, AZ 85721</p>
 
@@ -25,13 +25,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## about me
 
-I am a second-year physics grad student at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working under Eduardo Rozo. My research interests are largely in (computational) astrophysics, cosmology, and high-energy physics related to topics such as the nature and production of dark matter, and the acceleration of cosmic particles.
+I'm a second-year physics grad student at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working on galaxy cluster and halo models under Eduardo Rozo. My research interests are in computational astrophysics, physical cosmology, and particle physics related to dark matter, and data science.
 
-I earned my B.S. in Astrophysics from the University of California, Santa Cruz (go slugs!), where I had the chance to do research on cosmic-ray diffusion and gamma-ray emission in Andromeda (M31) under Stefano Profumo.
+I earned my B.S. in Astrophysics from the University of California, Santa Cruz, where I researched cosmic-ray diffusion and gamma-ray emission in Andromeda (M31) under Stefano Profumo. 
+
+If you’d like to find out more about me and what I’m working on or have worked on, check out the info on my [research](https://cosweeney.github.io/projects/), [CV](https://cosweeney.github.io/cv/), and [teaching](https://cosweeney.github.io/teaching/) pages. Also feel free to contact me via my email.
 
 ## outside of academia..
 
-I enjoy finding out new things about myself and the world, be that through fitness, cooking, camping, music, reading, playing with my dog Nova, or exploring Tucson (or other parts of the world when I get the chance). 
+When I’m not working on research, I’m most likely spending my time exploring Tucson, playing rugby, reading about philosophy, or playing with my dog, Nova. 
 
 
 
