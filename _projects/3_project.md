@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Measuring $H_0$ with Galaxy Clsuters
+title: Measuring the Hubble Constant with Galaxy Clusters
 description: "[currently underway]"
 img:
 importance: 4

@@ -29,7 +29,7 @@ I'm a third-year physics grad student at the [University of Arizona](https://w3.
 
 I earned my B.S. in Astrophysics from the University of California, Santa Cruz, where I researched cosmic-ray diffusion and gamma-ray emission in Andromeda (M31) under Stefano Profumo. 
 
-If you’d like to find out more about me and what I’m working on or have worked on, check out the info on my [research](https://cosweeney.github.io/projects/), [CV](https://cosweeney.github.io/cv/), and [teaching](https://cosweeney.github.io/teaching/) pages. Also feel free to contact me via my email.
+If you’d like to find out more about me and my work, check out the info on my [research](https://cosweeney.github.io/projects/), [CV](https://cosweeney.github.io/cv/), and [teaching](https://cosweeney.github.io/teaching/) pages. Also feel free to contact me via my email.
 
 ## outside of academia..
 
