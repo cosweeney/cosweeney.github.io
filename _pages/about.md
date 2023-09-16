@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## about me
 
-I'm a second-year physics grad student at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working on galaxy cluster and halo models under Eduardo Rozo. My research interests are in computational astrophysics, physical cosmology, and particle physics related to dark matter, and data science.
+I'm a third-year physics grad student at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working on galaxy cluster and halo models under Eduardo Rozo. My research interests are in computational astrophysics, physical cosmology, and particle physics related to dark matter, and data science.
 
 I earned my B.S. in Astrophysics from the University of California, Santa Cruz, where I researched cosmic-ray diffusion and gamma-ray emission in Andromeda (M31) under Stefano Profumo. 
 
