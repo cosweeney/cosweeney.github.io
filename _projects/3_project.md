@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Phase Space of Galaxy Clusters, H_0
+title: Measuring $H_0$ with Galaxy Clsuters
 description: "[currently underway]"
 img:
-importance: 3
+importance: 4
 category: research
 ---
 ### *Last updated: Jan 2023* 

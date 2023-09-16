@@ -4,7 +4,7 @@
     - name: Full Name
       value: Connor Sweeney
     - name: Date of Birth
-      value: Aug 1998; Upland CA
+      value: Aug 1998
    # - name: Languages
      # value: English, German
 
@@ -35,7 +35,7 @@
       institution: U of Arizona
       year: Jan 2023-present
       description:
-        - Current Project under Eduardo Rozo
+        - Working under Eduardo Rozo, constraining the Hubble constant with galaxy clusters. 
        # - Description 2.
        # - title: Description 3.
        #   contents:

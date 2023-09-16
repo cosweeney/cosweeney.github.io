@@ -7,7 +7,7 @@ importance: 3
 category: personal
 ---
 
-I started playing this sport with a wierd-shaped ball while at UCSC, and I still try to play and watch it whenever I get the chance. I have a lot of fun with the sport and culture, and I've had the pleasure of meeting some fantastic people because of it. Currently I'm playing with the [Tucson Magpies](https://www.tucsonrugby.com/magpies/#:~:text=The%20Tucson%20Magpies%20were%20founded,the%20Kachina%20Sevens%20in%201984.), check them out!
+I started playing rugby while at UCSC, and I still try to play and keep up with it when I can. I have a lot of fun with the sport and culture, and I've had the pleasure of meeting some fantastic people because of it. Currently I'm playing with the [Tucson Magpies](https://www.tucsonrugby.com/magpies/#:~:text=The%20Tucson%20Magpies%20were%20founded,the%20Kachina%20Sevens%20in%201984.), check them out!
 Here's a few shots I've collected while playing: 
 
 <div class="row">
