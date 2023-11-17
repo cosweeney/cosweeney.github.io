@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>He/Him | Physics Grad</a> 
+subtitle: <a>He/Him | Physics PhD Candidate</a> 
 
 profile:
   align: right
@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## about me
 
-I'm a third-year physics grad student at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working on constraining cosmology with galaxy clusters under Eduardo Rozo. My research interests are in computational astrophysics, physical cosmology, particle physics related to dark matter, and data science.
+I'm a physics PhD candidate at the [University of Arizona](https://w3.physics.arizona.edu/research/astrophysics-and-cosmology) working on constraining cosmology with galaxy clusters under Eduardo Rozo. My research interests are in computational astrophysics, physical cosmology, particle physics related to dark matter, and data science.
 
 I earned my B.S. in Astrophysics from the University of California, Santa Cruz, where I researched cosmic-ray diffusion and gamma-ray emission in Andromeda (M31) under Stefano Profumo. 
 
